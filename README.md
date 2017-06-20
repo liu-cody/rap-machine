@@ -1,2 +1,2 @@
 # songgenerator
-¯\_(ツ)_/¯
+mom's spaghetti
