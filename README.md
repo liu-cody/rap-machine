@@ -9,7 +9,7 @@
 ## Authors
  Cody Liu @ https://github.com/liu-cody       
 
- Rohit Gangupantulu @ https://github.com/gangupantulur   
+ Rohit Gangupantulu @ https://github.com/rgangu   
 
 ## License
 
