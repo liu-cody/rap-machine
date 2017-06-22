@@ -7,8 +7,8 @@
 -You will also need to install [Tensorflow](https://www.tensorflow.org/install/) and [Keras](http://www.pyimagesearch.com/2016/11/14/installing-keras-with-tensorflow-backend/), as well as have NumPy and Pandas (two popular Python libraries) [installed](http://viziblr.com/news/2012/4/21/step-by-step-installing-pandas-on-windows-7-from-pypi-with-e.html) on your machine. Of course, you can use simple pip commands to install these libraries as well. 
 
 ## Authors
-https://github.com/liu-cody        Cody Liu
-https://github.com/gangupantulur   Rohit Gangupantulu 
+-https://github.com/liu-cody        Cody Liu
+-https://github.com/gangupantulur   Rohit Gangupantulu 
 
 ## License
 
