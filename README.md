@@ -25,6 +25,6 @@ furnished to do so. If any doubts arise, feel free to contact the authors.
 - Thanks to Henry Ehrenberg. Follow him at https://github.com/henryre. 
 
 ------------------------------------------------------------------------------------------------------------------------------
-*Warning - Some of the source code (especially training the model in the end) may contain vulgar language - this is due to the lyrical contents of the artists.*
+*Warning - Some of the output may contain vulgar language - this is due to the neural network learning from the lyrical contents of the artists.*
 
  
